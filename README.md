@@ -1,3 +1,9 @@
+### Forutsætning for å kjøre programmet
+Disse må være installert for å kunne kjøre eller utvikle dette program:
+
+1. https://github.com/dotnet/core-setup
+2. https://github.com/dotnet/core-sdk
+
 ## Backend case for webutvikler 2019
 
 Jeg har valgt å løse denne case i .NET Core, da .NET Core allerede har indbygget data validering og da data validering var opgavens hovedpunkt var det et naturlig valg.
